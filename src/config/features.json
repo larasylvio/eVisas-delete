@@ -1,0 +1,23 @@
+[
+    {
+        "title": "Encripted",
+        "description": "Your data is encripted ans stored in a secure database"
+    },
+    {
+        "title": "OpenSouce",
+        "description": "Your data is encripted ans stored in a secure database"
+    },
+    {
+        "title": "Secure",
+        "description": "Your data is encripted ans stored in a secure database"
+    }
+    ,
+    {
+        "title": "Free",
+        "description": "Your data is encripted ans stored in a secure database"
+    },
+    {
+        "title": "Other",
+        "description": "Your data is encripted ans stored in a secure database"
+    }
+]
